@@ -12,8 +12,9 @@ const App = () => {
             <Router>
 
                 <TopBar/>
-                
+
                 <Routes />
+                
             </Router>
         </CurrentUserProvider>
     )
